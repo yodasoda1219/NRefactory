@@ -9,6 +9,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>ICSharpCode.NRefactory.GtkDemo</RootNamespace>
     <AssemblyName>ICSharpCode.NRefactory.GtkDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
